@@ -1,0 +1,21 @@
+{
+  "name": "mssqlapi",
+  "version": "1.0.0",
+  "description": "MSSQL API",
+  "main": "index.js",
+  "keywords": [
+    "expressjs",
+    "mssql",
+    "bydesign",
+    "odata"
+  ],
+  "author": "Noel",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mssql": "^6.0.1",
+    "custom-env": "^1.0.2",
+    "soap": "^0.30.0",
+    "cors": "2.8.5"
+  }
+}
