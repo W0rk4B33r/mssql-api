@@ -37,7 +37,6 @@ var dbConfig = {
 		idleTimeoutMillis: 60000
 	}
 }
-
 // app.post('/PostData', (request, response) => {
     
 //     response.type('application/json');
